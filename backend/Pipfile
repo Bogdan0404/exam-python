@@ -11,3 +11,5 @@ python_version = "3.5"
 [packages]
 sqlalchemy = "*"
 "psycopg2-binary" = "*"
+flask = "*"
+marshmallow = "*"

@@ -6,6 +6,7 @@ pipenv --venv
 . C:\Users\BogdanFlorinAlbu\.virtualenvs\backend-WMBvRIUN\Scripts\activate.bat
 flask run -h 127.0.0.1
 
+cd backend
 pipenv --three
 pipenv install sqlalchemy psycopg2-binary
 pipenv shell

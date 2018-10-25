@@ -12,4 +12,6 @@ pipenv shell
 pipenv install flask marshmallow
 pipenv install flask-cors
 
+python -m src.main
+
 curl http://127.0.0.1:5000/exams
